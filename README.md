@@ -1,1 +1,1 @@
-TODO: uPDATE cONTENTS
+TODO: Update readme, projects is done.
